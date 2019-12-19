@@ -1,0 +1,2 @@
+# logbash
+Log Function Bash
